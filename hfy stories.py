@@ -16,7 +16,7 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- “AI vs Humans Story”, “Alien War Story”, “Future Earth Story”, “Humanity Sci-Fi Story”
+“AI vs Humans Story”, “Alien War Story”, “Future Earth Story”, “Humanity Sci-Fi Story”
 “Dark Sci-Fi Shorts”, “HFY Animation”, “ChatGPT Sci-Fi Stories”, “Galactic Empire Story”
 “Terrifying Humans Story”, “Short Sci-Fi Narration” 
 "Humanity Ascendant", "Humanity First", "Humans Are Superior", "Humans Fight Back"
